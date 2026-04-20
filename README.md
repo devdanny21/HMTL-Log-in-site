@@ -29,6 +29,7 @@ This project is a simple login interface built with HTML, CSS, and JavaScript. I
 ## Notes
 
 This project is for learning purposes only and does not include a secure backend.
+Also the Picture for CSS is INOP. I will add one soon in when Database is in!
 
 ## Future Improvements
 
